@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**lankovova/lankovova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a proficient results-oriented software engineer with almost **6 years** of commercial experience and excitement for **building products**. 
 
-Here are some ideas to get you started:
+🔥 I build products, lead front-end direction in teams, mentor team members.  
+✨ Highly passionate about user experience, functional programming, and clean code.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❤ Main stack: JavaScript, TypeScript, React, Redux, NodeJS, Ramda, Git, Jest.  
+
+<div>
+  <a href="https://www.linkedin.com/in/lankovova/">
+    <img src="https://i.imgur.com/OQUXwNp.jpeg" width="40" height="40" alt="LinkedIn Logo">
+  </a>
+  <a href="https://stackoverflow.com/users/7992204/lankovova">
+    <img src="https://i.imgur.com/gZxmnyn.jpeg" width="40" height="40" alt="StackOverflow Logo">
+  </a>
+<div>
