@@ -4,7 +4,6 @@ I am a proficient results-oriented software engineer with almost **6 years** of 
 
 🔥 I build products, lead front-end direction in teams, mentor team members.  
 ✨ Highly passionate about user experience, functional programming, and clean code.  
-
 ❤ Main stack: JavaScript, TypeScript, React, Redux, NodeJS, Ramda, Git, Jest.  
 
 <div>
